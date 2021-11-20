@@ -1,10 +1,10 @@
 {
-  "name": "site",
+  "name": "levendlandschap",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploi": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -13,7 +13,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://bebsico.github.io/levendlandschap"
+  "homepage": "https://bebsico.github.io/levendlandschap",
   "bugs": {
     "url": "https://github.com/bebsico/levendlandschap.be/issues"
   },
